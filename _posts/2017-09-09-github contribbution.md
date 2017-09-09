@@ -122,7 +122,9 @@ tags:
 	* `git config --global user.email "你的邮件地址"`
 	* `git config --global user.name "你的Github用户名"`
 	
-	
+
+## 日常晒猫
+
 ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-9/31643841.jpg)
 
 	
