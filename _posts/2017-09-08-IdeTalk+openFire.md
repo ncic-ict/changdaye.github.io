@@ -47,4 +47,8 @@ tags:
 8.openfire上查看用户
 	![](http://ovwa7dn9w.bkt.clouddn.com/17-9-8/8605390.jpg)
 
+
+
+
 	
+![](http://ovwa7dn9w.bkt.clouddn.com/17-9-9/97205679.jpg)
