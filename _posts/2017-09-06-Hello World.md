@@ -4,8 +4,7 @@ title:      Hello 2017
 subtitle:    "\"Hello World, Hello Blog\""
 date:       2017-09-06
 author:     mrchang
-header-img: img/cat/IMG_20170905_230523.jpg
-catalog: true
+header-img: img/post-bg-coffee.jpeg
 tags:
     - 公告
 ---

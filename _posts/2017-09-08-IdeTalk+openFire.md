@@ -4,7 +4,7 @@ title:      IdeTalk+Openfire
 subtitle:    "\"Idea插件之IdeTalk，使用openfire作服务器\""
 date:       2017-09-08
 author:     mrchang
-header-img: img/cat/IMG_20170825_195024.jpg
+header-img: img/post-bg-swift.jpg
 catalog: true
 tags:
     - Idea

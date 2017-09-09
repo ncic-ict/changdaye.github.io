@@ -4,7 +4,7 @@ title:      Google BBR 安装
 subtitle:    "\"Google BBR 加速\""
 date:       2017-09-07
 author:     mrchang
-header-img: img/cat/IMG_20170826_133449.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Google BBR

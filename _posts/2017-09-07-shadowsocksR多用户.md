@@ -4,7 +4,7 @@ title:      shadowsocksR多用户
 subtitle:    "\"一键安装ShadowsocksR多用户管理面板|ss-panel魔改脚本\""
 date:       2017-09-07
 author:     mrchang
-header-img: img/cat/IMG_20170825_194858.jpg
+header-img: img/post-bg-miui6.jpg
 catalog: true
 tags:
     - shadowsocksR
