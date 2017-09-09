@@ -70,7 +70,9 @@ tags:
 		cd repo.git
 		
 		复制粘贴脚本，并根据你的信息修改以下变量：旧的Email地址，正确的用户名，正确的邮件地址
-				`#!/bin/sh
+				
+				`
+				#!/bin/sh
 				
 				git filter-branch --env-filter '
 				
@@ -119,6 +121,9 @@ tags:
 	* 接下来全局设置好你的正确信息，以后就放心的用Github进行版本管理吧
 	* `git config --global user.email "你的邮件地址"`
 	* `git config --global user.name "你的Github用户名"`
+	
+	
+![](http://ovwa7dn9w.bkt.clouddn.com/17-9-9/31643841.jpg)
 
 	
 [原文链接](https://segmentfault.com/a/1190000004318632)	
