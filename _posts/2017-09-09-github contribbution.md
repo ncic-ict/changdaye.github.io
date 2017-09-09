@@ -2,7 +2,7 @@
 layout:     post
 title:      github细节
 subtitle:    "\"github contribbution 没记录\""
-date:       2017-09-08
+date:       2017-09-09
 author:     mrchang
 header-img: img/post-bg-swift.jpg
 catalog: true
