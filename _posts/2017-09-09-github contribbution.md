@@ -4,7 +4,7 @@ title:      github细节
 subtitle:    "\"github contribbution 没记录\""
 date:       2017-09-08
 author:     mrchang
-header-img: img/cat/IMG_20170825_195024.jpg
+header-img: img/cat/IMG_20170907_213434.jpg
 catalog: true
 tags:
     - github
