@@ -13,8 +13,6 @@ X
 (_posts/2017-2-9-Mac快速调出终端.md,d/7/d7c7f01176d9785951506bb36767f3053541fa0d
 T
 $_posts/2017-02-15-Git指令整理.md,5/d/5d1e972426bfd8a62ba74c36ef76c44f127ac112
-P
- _posts/2017-09-07-Hello World.md,8/5/858e1bd66d4ff9086526c1a45607b105bc656a6c
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 5
@@ -23,14 +21,10 @@ V
 &_posts/2017-09-07-Google BBR 安装.md,5/a/5a986d3bb65154fbb3eb4e4d9c9b9503d3446f53
 }
 M_posts/2017-03-17-Mac终端(zsh)下用代码编辑器打开文件或目录.md,9/b/9bd7eb916d46e40e8813098c4f814a57c95220c5
-Z
-*_posts/2017-09-06-shadowsocksR多用户.md,f/b/fb5d9249f6f935befcd138d46075f103632a9587
 a
 1_posts/2017-02-22-Mac-文件的隐藏与显示.md,4/b/4b86028865cdc420bdffc5d5a77ed4215d89d470
 R
 "_posts/2017-09-07-Docker 细节.md,f/5/f522f4eb299faaf6e3adf7c3c83801aa9a77cf03
-R
-"_posts/2017-09-01-idea快捷键.md,9/e/9e287e26f5ea131551a930aafe8700e21dd159d9
 8
 feed.xml,2/2/22950ffc308261850157fa2318b4413a862cca26
 <
@@ -47,3 +41,21 @@ J
 sw.js,d/1/d1aab4d65c9ec2ec2cfcaad8fbb656826f995293
 T
 $_posts/2017-09-07-免费SSL证书.md,e/1/e1da683fbc7ef5c6e697d36c20abce69f3c8ece7
+P
+ _posts/2017-09-06-Hello World.md,a/d/adf4cedc6093ec3b0f13e84e0827bea417f0fa40
+Y
+)_posts/2017-09-09-github contribbution.md,7/1/71782b6b9f6b3c2b3a906c96c9d2fefc5cda0086
+U
+%_posts/2017-09-09-cassandra 简介.md,f/f/ff3f4db3f5436557d63cefd4bb5b7f7a1d0ad57e
+O
+_posts/2017-09-08-mail服务.md,d/c/dcd7f953afb92dad1ba617d550804ad7e4dca7b5
+U
+%_posts/2017-09-08-IdeTalk+openFire.md,f/d/fd741aea2b1bdd5b8fc0d29f608a29894b51641d
+Z
+*_posts/2017-09-07-shadowsocksR多用户.md,d/e/de616a0c34b6a5b73577a76ea153993879b6aea1
+L
+_posts/2017-09-07-IdeTalk.md,2/2/226400a3aeea11fb47effc09b5b3128d31739041
+R
+"_posts/2017-09-07-idea快捷键.md,a/d/ad6eec77a708d4fa0217f2549b58c2b198ba9bf2
+]
+-_posts/2017-09-10-cassnadra安装与配置.md,6/3/63d8f80bfdce32a2eab33bcf54713e18bf69bb67
