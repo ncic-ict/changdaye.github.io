@@ -28,7 +28,7 @@ tags:
     
  *  `copy contract_info (contract_serial_number,biz_id,biz_key_values,contract_id,contract_num,create_time,delete_flag,file_id,file_path,file_title,file_type,status) to'/root/shuju/contract_info.csv';
           ` 导入
- *   copy contract_info (contract_serial_number,biz_id,biz_key_values,contract_id,contract_num,create_time,delete_flag,file_id,file_path,file_title,file_type,status) from '/root/shuju/contract_info.csv';
+ *   `copy contract_info (contract_serial_number,biz_id,biz_key_values,contract_id,contract_num,create_time,delete_flag,file_id,file_path,file_title,file_type,status) from '/root/shuju/contract_info.csv';`
  
 ## 注意
 1. 列名保持导入导出一致，数量一致，导入是序列化写入到cvs的每一列，导入也是序列化，所以列个数要一致，你可以换列的位置（如有需要调换列的数据时候），
