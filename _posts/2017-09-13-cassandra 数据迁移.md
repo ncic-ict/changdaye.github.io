@@ -35,3 +35,4 @@ tags:
             如果你修改了表结构，某一列又不需要了，请建表时创建这一列，数据迁移结束后，在删除这一列。
             ALTER TABLE contract_mgt.contract_info
             drop biz_key_values;
+

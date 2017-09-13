@@ -35,3 +35,8 @@ tags:
     * ./nodetool setstreamthroughput 32
         * 限制为32mbps 假设你的集群有10个机器，那么你的新节点的流量大约是32*10mbps。
     你可以根据数据迁移的进度，完成的节点个数，慢慢调大这个值。
+    
+    
+## 日常晒猫
+
+   ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-13/11120190.jpg)
