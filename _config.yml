@@ -17,9 +17,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg     # use absolute URL, seeing it's use
 
 
 # SNS settings
-RSS: true
-weibo_username:     常常常常大爷
-zhihu_username:     常大爷
+RSS: false
+weibo_username:     5819954295
+zhihu_username:     chang-da-ye-18
 github_username:    changdaye
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
