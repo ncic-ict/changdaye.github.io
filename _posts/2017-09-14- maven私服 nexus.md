@@ -63,6 +63,7 @@ tags:
 
 10. 项目执行mvn delepoy 即可上传到私服。
 
-11. 至于releases库与snaoshots库的区别，简单去说就是relesses库是稳定版本或者生产版本，snaoshots库是不稳定版本或开发版本，项目版本号后面带 `
--SNAPSHOT` 的都会上传到snaoshots库。
+11. 至于releases库与snaoshots库的区别
+    * 简单去说就是relesses库是稳定版本或者生产版本，snaoshots库是不稳定版本或开发版本，项目版本号后面带
+`-SNAPSHOT` 的都会上传到snaoshots库。
 
