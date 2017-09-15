@@ -9,8 +9,6 @@ D_posts/2017-02-22-使用-.gitignore-忽略-git-仓库中的文件.md,c/e/ce727
 _config.yml,c/d/cd089ae45ce870c45e434019e8f1ed4f066cd425
 ]
 -_posts/2017-02-06-快速搭建个人博客.md,2/4/24b32e9e335d2830f025e918b29abc1290a84159
-X
-(_posts/2017-2-9-Mac快速调出终端.md,d/7/d7c7f01176d9785951506bb36767f3053541fa0d
 T
 $_posts/2017-02-15-Git指令整理.md,5/d/5d1e972426bfd8a62ba74c36ef76c44f127ac112
 S
