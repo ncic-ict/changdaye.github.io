@@ -24,3 +24,4 @@ tags:
 
 4. 激活地址 `You can use http://ip:41017 as license server`
 
+5. 目前可用地址： `http://45.76.202.62:41017`
