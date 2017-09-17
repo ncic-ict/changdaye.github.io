@@ -32,8 +32,12 @@ tags:
 
 5. Controller中使用
 	![](http://ovwa7dn9w.bkt.clouddn.com/17-9-17/6005778.jpg)
+
+6. 文档效果
+
+    ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-17/63184256.jpg)
 	
-6. 生产环境一般不会暴露接口文档出来，记得关闭开关。
+7. 生产环境一般不会暴露接口文档出来，记得关闭开关。
 
 	![](http://ovwa7dn9w.bkt.clouddn.com/17-9-17/59638105.jpg)
 	
