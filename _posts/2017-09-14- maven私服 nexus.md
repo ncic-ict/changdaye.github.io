@@ -56,7 +56,9 @@ tags:
         ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-14/65102103.jpg)
         
     * pom文件设置
+    
         ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-14/12953066.jpg)
+        
         ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-14/81818372.jpg)
 
     备注： pom中上传的设置id要与maven setting中的id保持一致。
