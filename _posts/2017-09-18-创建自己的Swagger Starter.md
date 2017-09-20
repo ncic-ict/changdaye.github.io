@@ -46,7 +46,7 @@ tags:
 		</dependency>
 		
 		
-2. 创建说明配置类，省略get set...
+2. 创建说明配置类，省略get set方法...
 
 		@ConfigurationProperties(prefix="swagger")
 		public class SwaggerProperties {
