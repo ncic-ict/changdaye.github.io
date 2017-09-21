@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      实时 CodeReview 
+title:      CodeReview 
 subtitle:    "\"Maven SonarQube CodeReview\""
 date:       2017-09-21
 author:     mrchang
