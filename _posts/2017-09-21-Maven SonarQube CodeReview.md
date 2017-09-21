@@ -72,7 +72,13 @@ tags:
 	
 	![](http://ovwa7dn9w.bkt.clouddn.com/17-9-21/98104526.jpg)
 	
-5. 关于SonarQube详细设置，下个博客在讲。
+## 实时code review
+    
+    * 插件：SonarLint
+    
+    * 官网：http://www.sonarlint.org/intellij/
+    
+* 关于SonarQube常用设置，下个博客再讲。
 
 
 
