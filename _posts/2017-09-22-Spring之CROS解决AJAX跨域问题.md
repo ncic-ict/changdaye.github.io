@@ -22,7 +22,7 @@ tags:
 
 ## Spring MVC提供了高级配置功能
 
-1. 控制器方法CORS配置
+控制器方法CORS配置
 
 * 您可以向`@RequestMapping`注释处理程序方法添加`@CrossOrigin`注释，以便启用CORS（默认情况下`@CrossOrigin`允许`@RequestMapping`注释中指定的所有起始和`HTTP`方法）：
 
