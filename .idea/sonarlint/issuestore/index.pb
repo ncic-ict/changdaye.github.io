@@ -91,3 +91,5 @@ g
 7_posts/2017-09-21-期待已久的Java 9 今日发布.md,f/c/fc740d47ca15f93b9bc7a66f0983950f7ee8b66c
 _
 /_posts/2017-09-21-Maven SonarQube CodeReview.md,1/f/1f2296ae216ab330ec17b2aa4dd8cefa67c43f9d
+
+O_posts/2017-09-22-使用 Jenkins 与 Sonar 集成对代码进行持续检测.md,c/4/c42e57978fe2f9fd359019fb141eaba7eafd9c7e
