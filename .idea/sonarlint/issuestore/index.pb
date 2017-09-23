@@ -95,3 +95,5 @@ _
 O_posts/2017-09-22-使用 Jenkins 与 Sonar 集成对代码进行持续检测.md,c/4/c42e57978fe2f9fd359019fb141eaba7eafd9c7e
 h
 8_posts/2017-09-22-Spring之CROS解决AJAX跨域问题.md,d/a/dad455bee82333ec46ecfdfa68f29ce938d8037b
+q
+A_posts/2017-09-23-服务端指南 | 良好的 API 设计指南.md,0/a/0a95cbbb31764db7edf47665ff2cbeb6bede9d88
