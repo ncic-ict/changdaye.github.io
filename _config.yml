@@ -96,8 +96,13 @@ friends: [
     {
         title: "jianghoufeng",
         href: "https://github.com/ophina"
-    },{
+    },
+    {
         title: "hsweb",
         href: "https://github.com/zhou-hao"
+    },
+    {
+             title: "憧憬点滴记忆",
+             href: "https://www.licoy.cn/"
     }
 ]
