@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:     	Spring Boot 之 Cache
-subtitle:    "\"Spring Boot 之 Cache  Redis \""
+title:     	Spring Boot 之 Cache Redis
+subtitle:    "\"Spring Boot 之 Cache   Redis\""
 date:       2017-09-26
 author:     mrchang
 header-img: img/post-bg-re-vs-ng2.jpg
