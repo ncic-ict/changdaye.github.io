@@ -36,7 +36,17 @@ tags:
 	        </dependency>
 	   </dependencies>
 	 
-	 
+## SimpleApplication 
+
+    @EnableCaching
+    @EnableScheduling
+    @SpringBootApplication
+    public class SimpleApplication {
+    
+        public static void main(String[] args) {
+            SpringApplication.run(SimpleApplication.class, args);
+        }
+    }
 	
 ## application.properties
 
