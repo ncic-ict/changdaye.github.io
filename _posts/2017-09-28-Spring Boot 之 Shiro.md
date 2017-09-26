@@ -108,7 +108,33 @@ tags:
 	        SimpleAuthenticationInfo info = new SimpleAuthenticationInfo(userName, user.getPassword(), getName());
 	        return info;
 	    } 
-	    
+
+## LoginController（登录接口）
+
+    @RequestMapping(value = "login", method = RequestMethod.POST)
+    @ResponseBody
+    public String login(HttpServletRequest request, RedirectAttributes rediect) {
+        String account = request.getParameter("account");
+        String password = request.getParameter("password");
+
+        UsernamePasswordToken upt = new UsernamePasswordToken(account, password);
+        Subject subject = SecurityUtils.getSubject();
+        try {
+            subject.login(upt);
+        } catch (AuthenticationException e) {
+            e.printStackTrace();
+            rediect.addFlashAttribute("errorText", "您的账号或密码输入错误!");
+            return "您的账号或密码输入错误";
+        }
+        return "登录成功";
+    }
+
+
+    @RequestMapping("unauthor")
+    @ResponseBody
+    public String unauthor() {
+        return "没有权限";
+    }
 	    
 ## 参照
 
