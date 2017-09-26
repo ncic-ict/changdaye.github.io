@@ -7,7 +7,7 @@ author:     Mr Chang
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
-    - Spring Boot
+    - Spring Boot1
     - Quartz
     - 定时任务
 
