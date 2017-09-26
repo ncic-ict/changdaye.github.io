@@ -111,3 +111,7 @@ c
 3_posts/2017-09-26-Spring Boot 之 Cache  Ehcache.md,6/2/628bb037c2bdf668147f55faac9181e17503286c
 \
 ,_posts/2017-09-25-Spring Boot 之 Mybatis.md,0/a/0a00dc0c9ac89da90959146103b21dd7248bdf37
+a
+1_posts/2017-09-26-Spring Boot 之 Cache  Redis.md,f/1/f16dbfc3f251801f63e1fa35815715675e755299
+[
++_posts/2017-09-27-Spring Boot 之 Quartz.md,3/8/38990b42c449162621bb6b4f6fe2eab18392c305

@@ -59,7 +59,43 @@ tags:
     
         ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-14/12953066.jpg)
         
+          <repositories>
+                <repository>
+                    <id>nexus</id>
+                    <name>Team Nexus Repository</name>
+                    <url>http://101.201.237.117:8081/nexus/content/groups/public</url>
+                    <snapshots>
+                        <enabled>true</enabled>
+                        <updatePolicy>always</updatePolicy>
+                    </snapshots>
+                </repository>
+            </repositories>
+            <pluginRepositories>
+                <pluginRepository>
+                    <id>nexus</id>
+                    <name>Team Nexus Repository</name>
+                    <url>http://101.201.237.117:8081/nexus/content/groups/public</url>
+                    <snapshots>
+                        <enabled>true</enabled>
+                        <updatePolicy>always</updatePolicy>
+                    </snapshots>
+                </pluginRepository>
+            </pluginRepositories>
+        
         ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-14/81818372.jpg)
+        
+            <distributionManagement>
+                <repository>
+                    <id>releases</id>
+                    <name>Nexus Release Repository</name>
+                    <url>http://101.201.237.117:8081/nexus/content/repositories/releases/</url>
+                </repository>
+                <snapshotRepository>
+                    <id>snapshots</id>
+                    <name>Nexus Snapshot Repository</name>
+                    <url>http://101.201.237.117:8081/nexus/content/repositories/snapshots/</url>
+                </snapshotRepository>
+            </distributionManagement>
 
     备注： pom中上传的设置id要与maven setting中的id保持一致。
 
