@@ -134,7 +134,7 @@ Spring Boot中可以通过在`pom.xml`中加入`spring-boot-starter-data-mongodb
 
 在尝试此配置时，记得在mongo中对test库创建具备读写权限的用户（用户名为name，密码为pass），不同版本的用户创建语句不同，注意查看文档做好准备工作
 
-若使用mongodb 2.x，也可以通过如下参数配置，该方式不支持mongodb 3.x。
+若使用mongodb 2.，也可以通过如下参数配置，该方式不支持mongodb 3.x。
 
 	spring.data.mongodb.host=localhost spring.data.mongodb.port=27017
 	
