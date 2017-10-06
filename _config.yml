@@ -12,7 +12,7 @@ github_repo: "https://github.com/changdaye/changdaye.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Good Good Study ,Day Day Up."
+sidebar-about-description: "这家伙总以为自己是个天才，实际并不比别人聪明多少！"
 sidebar-avatar: /img/about-BY-gentle.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
