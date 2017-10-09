@@ -17,10 +17,10 @@ tags:
 1. 去[官网](http://cassandra.apache.org/)下载安装包
 2. 安装包
 
-	![](http://ovwa7dn9w.bkt.clouddn.com/17-9-10/36454228.jpg)
+	![](http://files.jetbrains.org.cn/17-9-10/36454228.jpg)
 3. 上传到服务器后tar解压
 4. 目录讲解
-	![](http://ovwa7dn9w.bkt.clouddn.com/17-9-10/97042215.jpg)
+	![](http://files.jetbrains.org.cn/17-9-10/97042215.jpg)
 	
 ## 要求
 
@@ -44,19 +44,19 @@ tags:
 ## 客户端
 1. cassandra 客户端 这里推荐使用DevCenter，[下载链接](https://www.devcenter.co/)
 
-	![](http://ovwa7dn9w.bkt.clouddn.com/17-9-10/47114996.jpg)
+	![](http://files.jetbrains.org.cn/17-9-10/47114996.jpg)
 	
 2. 新建链接
 
-	![](http://ovwa7dn9w.bkt.clouddn.com/17-9-10/14531145.jpg)
+	![](http://files.jetbrains.org.cn/17-9-10/14531145.jpg)
 	
 3. 添加ip地址
 
-	![](http://ovwa7dn9w.bkt.clouddn.com/17-9-10/78760046.jpg)
+	![](http://files.jetbrains.org.cn/17-9-10/78760046.jpg)
 
 4. 添加账号密码（密码为：cassandra）
 
-	![](http://ovwa7dn9w.bkt.clouddn.com/17-9-10/71788755.jpg)
+	![](http://files.jetbrains.org.cn/17-9-10/71788755.jpg)
 
 5. 执行建表语句
 	* cassandra简单建表语句与关系型数据库类似 
@@ -82,4 +82,4 @@ tags:
 
 ## 日常晒猫
 
-   ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-10/9896790.jpg)
+   ![](http://files.jetbrains.org.cn/17-9-10/9896790.jpg)

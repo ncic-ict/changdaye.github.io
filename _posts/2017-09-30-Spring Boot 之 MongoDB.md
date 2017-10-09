@@ -140,7 +140,7 @@ Spring Boot中可以通过在`pom.xml`中加入`spring-boot-starter-data-mongodb
 	
 ## 客户端推荐
 客户端这里推荐使用：**[robomongo](https://robomongo.org/)**
-	![](http://ovwa7dn9w.bkt.clouddn.com/17-9-27/65682824.jpg)
+	![](http://files.jetbrains.org.cn/17-9-27/65682824.jpg)
 	
 	
 ## 鸣谢

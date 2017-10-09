@@ -39,4 +39,4 @@ tags:
     
 ## 日常晒猫
 
-   ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-13/11120190.jpg)
+   ![](http://files.jetbrains.org.cn/17-9-13/11120190.jpg)

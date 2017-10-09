@@ -24,7 +24,7 @@ tags:
 		 
 2. idea下载插件
 
-	![](http://ovwa7dn9w.bkt.clouddn.com/17-9-27/28118098.jpg)
+	![](http://files.jetbrains.org.cn/17-9-27/28118098.jpg)
 	
 3. lombok 常用注解介绍
 

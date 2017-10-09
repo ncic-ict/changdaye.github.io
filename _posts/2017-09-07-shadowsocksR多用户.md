@@ -68,5 +68,5 @@ vps主机在国外，这里推荐香港
  
 ## 日常晒猫
  
-![](http://ovwa7dn9w.bkt.clouddn.com/17-9-9/66408733.jpg)
+![](http://files.jetbrains.org.cn/17-9-9/66408733.jpg)
 

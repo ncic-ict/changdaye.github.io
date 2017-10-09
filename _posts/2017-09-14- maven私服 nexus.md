@@ -28,36 +28,36 @@ tags:
 
 2. ` yum -y install docker `
 
-    ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-14/22748323.jpg)
+    ![](http://files.jetbrains.org.cn/17-9-14/22748323.jpg)
 
 3. 启动docker: `service docker start `
 
 4. 查找nexus镜像 ： `docker search nexus`
 
-   ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-14/93572570.jpg)
+   ![](http://files.jetbrains.org.cn/17-9-14/93572570.jpg)
    
 5. 一般情况下，我们都是用stars最高的。`docker pull docker.io/sonatype/nexus`
 
 6. 启动nexus容器，对于以后的容器启动，[不清楚如何启动可以去docker hub 查看][https://hub.docker.com/]，
 
-    ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-14/58578914.jpg)
+    ![](http://files.jetbrains.org.cn/17-9-14/58578914.jpg)
     
 7. 一般直接搜索`run `就可以找到如何启动
 
-    ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-14/87774408.jpg)
+    ![](http://files.jetbrains.org.cn/17-9-14/87774408.jpg)
     
 8. 访问查看，管理员账户密码 `admin admin123`
 
-    ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-14/45145189.jpg)
+    ![](http://files.jetbrains.org.cn/17-9-14/45145189.jpg)
     
 9. maven设置
 
     * setting.xml设置
-        ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-14/65102103.jpg)
+        ![](http://files.jetbrains.org.cn/17-9-14/65102103.jpg)
         
     * pom文件设置
     
-        ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-14/12953066.jpg)
+        ![](http://files.jetbrains.org.cn/17-9-14/12953066.jpg)
         
           <repositories>
                 <repository>
@@ -82,7 +82,7 @@ tags:
                 </pluginRepository>
             </pluginRepositories>
         
-        ![](http://ovwa7dn9w.bkt.clouddn.com/17-9-14/81818372.jpg)
+        ![](http://files.jetbrains.org.cn/17-9-14/81818372.jpg)
         
             <distributionManagement>
                 <repository>
