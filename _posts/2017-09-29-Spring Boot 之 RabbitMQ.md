@@ -225,3 +225,6 @@ AMQP是Advanced Message Queuing Protocol的简称，它是一个面向消息中�
 ## 鸣谢
 
 **转载： http://www.jianshu.com/p/53221f56a8f3**
+
+
+![](http://files.jetbrains.org.cn/17-10-11/92200804.jpg)

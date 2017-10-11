@@ -147,3 +147,6 @@ Spring Boot中可以通过在`pom.xml`中加入`spring-boot-starter-data-mongodb
 
 **转载：http://www.jianshu.com/p/879caef9b0bc**
 
+
+![](http://files.jetbrains.org.cn/17-10-11/27911813.jpg)
+

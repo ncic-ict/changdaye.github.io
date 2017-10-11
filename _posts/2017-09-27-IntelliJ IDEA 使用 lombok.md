@@ -56,3 +56,7 @@ tags:
 		 lombok.log.fieldName=logger(默认: log) #设置 log 类注解返回的字段名称
 
 **注 : 在 IDEA 中,lombok.config 文件 请放置于 src\main\java 目录下, 在 src\main\resources 中将不生效**
+
+
+
+![](http://files.jetbrains.org.cn/17-10-11/92200804.jpg)
