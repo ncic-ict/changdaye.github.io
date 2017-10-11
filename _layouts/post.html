@@ -101,14 +101,68 @@ layout: default
                 <div id="cyReping" role="cylabs" data-use="reping"></div>
 
 
+                <!--PC和WAP自适应版-->
+                <div id="SOHUCS"></div>
+                <script type="text/javascript">
+                    (function () {
+                        var appid = 'cysVb8ccE';
+                        var conf = 'prod_6a7413afad017a0ced448561af5191d1';
+                        var width = window.innerWidth || document.documentElement.clientWidth;
+                        if (width < 960) {
+                            window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf + '"><\/script>');
+                        } else {
+                            var loadJs = function (d, a) {
+                                var c = document.getElementsByTagName("head")[0] || document.head || document.documentElement;
+                                var b = document.createElement("script");
+                                b.setAttribute("type", "text/javascript");
+                                b.setAttribute("charset", "UTF-8");
+                                b.setAttribute("src", d);
+                                if (typeof a === "function") {
+                                    if (window.attachEvent) {
+                                        b.onreadystatechange = function () {
+                                            var e = b.readyState;
+                                            if (e === "loaded" || e === "complete") {
+                                                b.onreadystatechange = null;
+                                                a()
+                                            }
+                                        }
+                                    } else {
+                                        b.onload = a
+                                    }
+                                }
+                                c.appendChild(b)
+                            };
+                            loadJs("https://changyan.sohu.com/upload/changyan.js", function () {
+                                window.changyan.api.config({appid: appid, conf: conf})
+                            });
+                        }
+                    })(); </script>
 
-                {% if site.disqus_username %}
-                <!-- disqus 评论框 start -->
-                <div class="comment">
-                    <div id="disqus_thread" class="disqus-thread" align="center">评论及查看评论需要翻墙。</div>
-                </div>
-                <!-- disqus 评论框 end -->
-                {% endif %}
+                <div id="cyEmoji" role="cylabs" data-use="emoji"></div>
+
+                <script type="text/javascript" charset="utf-8" src="https://changyan.itc.cn/js/lib/jquery.js"></script>
+                <script type="text/javascript" charset="utf-8" src="https://changyan.sohu.com/js/changyan.labs.https.js?appid=cysVb8ccE"></script>
+
+                <ul class="pager">
+                    {% if page.previous.url %}
+                    <li class="previous">
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">
+                            Previous<br>
+                            <span>{{page.previous.title}}</span>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if page.next.url %}
+                    <li class="next">
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">
+                            Next<br>
+                            <span>{{page.next.title}}</span>
+                        </a>
+                    </li>
+                    {% endif %}
+                </ul>
+
+            </div>
 
             </div>
 
