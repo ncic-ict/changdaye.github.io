@@ -127,3 +127,5 @@ S
 ,_posts/2017-09-30-Spring Boot 之 MongoDB.md,5/f/5f4e2bbbda97821d287bcaaea8e6d57c0a5356ad
 `
 0_posts/2017-09-27-IntelliJ IDEA 使用 lombok.md,6/8/6833e6d04aabb69e7f41ec328e20e0297e0df718
+e
+5_posts/2017-10-10-java8 之 Java语言的新特性.md,b/1/b10f29af6ef02875c4350bd61e9a35ecf2bbd558
