@@ -4,7 +4,7 @@ title:     	Spring Boot 之 Web应用
 subtitle:    "\"Spring Boot 之 Web应用\""
 date:       2017-09-25
 author:     mrchang
-header-img: img/post-bg-re-vs-ng2.jpg
+header-img: img/post-bg-alibaba.jpg
 catalog: true
 tags:
     - Spring Boot

@@ -4,7 +4,7 @@ title:     	Spring Boot 之 RabbitMQ
 subtitle:    "\"Spring Boot 之 RabbitMQ\""
 date:       2017-09-29
 author:     Mr Chang
-header-img: img/post-bg-re-vs-ng2.jpg
+header-img: img/post-bg-digital-native.jpg
 catalog: true
 tags:
     - Spring Boot

@@ -4,7 +4,7 @@ title:     	Spring Boot 之 Email
 subtitle:    "\"Spring Boot 之 Email\""
 date:       2017-09-25
 author:     Mr Chang
-header-img: img/home-bg-geek.jpg
+header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - Spring Boot

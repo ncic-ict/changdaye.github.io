@@ -4,7 +4,7 @@ title:     	IntelliJ IDEA 使用 lombok
 subtitle:    "\"减少冗长代码，使pojo更简洁\""
 date:       2017-09-27
 author:     Mr Chang
-header-img: img/post-bg-re-vs-ng2.jpg
+header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
     - IntelliJ IDEA

@@ -4,7 +4,7 @@ title:     	Spring Boot 之 MongoDB
 subtitle:    "\"Spring Boot 之 MongoDB\""
 date:       2017-09-30
 author:     Mr Chang
-header-img: img/post-bg-re-vs-ng2.jpg
+header-img: img/post-bg-e2e-ux.jpg
 catalog: true
 tags:
     - Spring Boot

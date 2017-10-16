@@ -4,7 +4,7 @@ title:     	Spring Boot 之 Cache Ehcache
 subtitle:    "\"Spring Boot 之 Cache  Ehcache\""
 date:       2017-09-26
 author:     mrchang
-header-img: img/post-bg-re-vs-ng2.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 tags:
     - Spring Boot

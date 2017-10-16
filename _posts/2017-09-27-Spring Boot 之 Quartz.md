@@ -4,7 +4,7 @@ title:     	Spring Boot 之 Quartz
 subtitle:    "\"Spring Boot 之 Quartz\""
 date:       2017-09-27
 author:     Mr Chang
-header-img: img/post-bg-re-vs-ng2.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - Spring Boot

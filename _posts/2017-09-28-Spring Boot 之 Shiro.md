@@ -4,7 +4,7 @@ title:     	Spring Boot 之 Shiro
 subtitle:    "\"Spring Boot 之 Shiro\""
 date:       2017-09-27
 author:     Mr Chang
-header-img: img/post-bg-re-vs-ng2.jpg
+header-img: img/post-bg-desk.jpg
 catalog: true
 tags:
     - Spring Boot
