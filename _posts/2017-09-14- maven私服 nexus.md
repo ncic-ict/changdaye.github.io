@@ -63,7 +63,7 @@ tags:
                 <repository>
                     <id>nexus</id>
                     <name>Team Nexus Repository</name>
-                    <url>http://101.201.237.117:8081/nexus/content/groups/public</url>
+                    <url>http://nexus.jetbrains.org.cn/nexus/content/groups/public</url>
                     <snapshots>
                         <enabled>true</enabled>
                         <updatePolicy>always</updatePolicy>
@@ -74,7 +74,7 @@ tags:
                 <pluginRepository>
                     <id>nexus</id>
                     <name>Team Nexus Repository</name>
-                    <url>http://101.201.237.117:8081/nexus/content/groups/public</url>
+                    <url>http://nexus.jetbrains.org.cn/nexus/content/groups/public</url>
                     <snapshots>
                         <enabled>true</enabled>
                         <updatePolicy>always</updatePolicy>
@@ -88,12 +88,12 @@ tags:
                 <repository>
                     <id>releases</id>
                     <name>Nexus Release Repository</name>
-                    <url>http://101.201.237.117:8081/nexus/content/repositories/releases/</url>
+                    <url>http://nexus.jetbrains.org.cn/nexus/content/repositories/releases/</url>
                 </repository>
                 <snapshotRepository>
                     <id>snapshots</id>
                     <name>Nexus Snapshot Repository</name>
-                    <url>http://101.201.237.117:8081/nexus/content/repositories/snapshots/</url>
+                    <url>http://nexus.jetbrains.org.cn/nexus/content/repositories/snapshots/</url>
                 </snapshotRepository>
             </distributionManagement>
 
@@ -105,3 +105,6 @@ tags:
     * 简单去说就是relesses库是稳定版本或者生产版本，snaoshots库是不稳定版本或开发版本，项目版本号后面带
 `-SNAPSHOT` 的都会上传到snaoshots库。
 
+## 备注
+
+如果觉得中央仓库慢的话，可以用我的私服 只需要配置 `repositories` 标签中的内容,`下载` 依赖， `distributionManagement` 标签中的内容为 `上传`， 无需配置，也不对外开放上传权限。
