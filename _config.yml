@@ -15,7 +15,9 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "这家伙总以为自己是个天才，实际并不比别人聪明多少！"
 sidebar-avatar: /img/about-BY-gentle.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+##cdn
+cdn: cdn由阿里云提供服务
+cdnUrl: https://www.aliyun.com/product/cdn?spm=5176.7933691.765261.407.79w7vI
 
 # SNS settings
 RSS: false
