@@ -14,7 +14,7 @@ tags:
 
 ## 启动效果
 
-![](http://files.jetbrains.org.cn/17-9-23/83251554.jpg)
+![](http://cdn-blog.jetbrains.org.cn/17-9-23/83251554.jpg)
 
 ## 步骤
 

@@ -27,19 +27,19 @@ tags:
 
 1. ide这里使用[jetbrains公司的Idea](https://www.jetbrains.com/idea/),新建项目，选择：
 
-	![](http://files.jetbrains.org.cn/17-9-24/7442632.jpg)
+	![](http://cdn-blog.jetbrains.org.cn/17-9-24/7442632.jpg)
 	
 2. 下一步，填写基本信息。
 
-	![](http://files.jetbrains.org.cn/17-9-24/68275658.jpg)
+	![](http://cdn-blog.jetbrains.org.cn/17-9-24/68275658.jpg)
 	
 3. 我们顺便测试下rest接口，所以选择个web模块。
 
-	![](http://files.jetbrains.org.cn/17-9-24/70774312.jpg)
+	![](http://cdn-blog.jetbrains.org.cn/17-9-24/70774312.jpg)
 	
 4. 项目创建完成
 
-	![](http://files.jetbrains.org.cn/17-9-24/19246253.jpg)
+	![](http://cdn-blog.jetbrains.org.cn/17-9-24/19246253.jpg)
 	
 5. 书写test接口,并测试
 
@@ -64,12 +64,12 @@ tags:
 		}`
 		
 
-![](http://files.jetbrains.org.cn/17-9-24/32505492.jpg)
+![](http://cdn-blog.jetbrains.org.cn/17-9-24/32505492.jpg)
 
 
 ## 日常晒猫
 
-   ![](http://files.jetbrains.org.cn/17-9-24/24426406.jpg)
+   ![](http://cdn-blog.jetbrains.org.cn/17-9-24/24426406.jpg)
 
 	
 

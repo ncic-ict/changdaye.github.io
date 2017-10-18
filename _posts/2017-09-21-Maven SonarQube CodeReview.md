@@ -51,11 +51,11 @@ tags:
 	    
 4. 访问。http://ip:9000
 
-	![](http://files.jetbrains.org.cn/17-9-21/39675683.jpg)
+	![](http://cdn-blog.jetbrains.org.cn/17-9-21/39675683.jpg)
 
 ## 项目中使用
 1. maven setting.xml 设置
-		![](http://files.jetbrains.org.cn/17-9-21/60017734.jpg)
+		![](http://cdn-blog.jetbrains.org.cn/17-9-21/60017734.jpg)
 		
 		
 2.  pom添加插件
@@ -70,7 +70,7 @@ tags:
 
 4. 观察
 	
-	![](http://files.jetbrains.org.cn/17-9-21/98104526.jpg)
+	![](http://cdn-blog.jetbrains.org.cn/17-9-21/98104526.jpg)
 	
 ## 实时code review
     

@@ -24,7 +24,7 @@ tags:
 		 
 2. idea下载插件
 
-	![](http://files.jetbrains.org.cn/17-9-27/28118098.jpg)
+	![](http://cdn-blog.jetbrains.org.cn/17-9-27/28118098.jpg)
 	
 3. lombok 常用注解介绍
 
@@ -59,4 +59,4 @@ tags:
 
 
 
-![](http://files.jetbrains.org.cn/17-10-11/92200804.jpg)
+![](http://cdn-blog.jetbrains.org.cn/17-10-11/92200804.jpg)

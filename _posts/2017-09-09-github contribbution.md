@@ -125,7 +125,7 @@ tags:
 
 ## 日常晒猫
 
-![](http://files.jetbrains.org.cn/17-9-9/31643841.jpg)
+![](http://cdn-blog.jetbrains.org.cn/17-9-9/31643841.jpg)
 
 	
 [原文链接](https://segmentfault.com/a/1190000004318632)	

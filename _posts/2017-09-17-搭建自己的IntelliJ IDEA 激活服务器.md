@@ -16,7 +16,7 @@ tags:
 
 ## 安装
 
-1. 下载激活软件，到服务器 ，[下载地址](http://files.jetbrains.org.cn/idea.zip)
+1. 下载激活软件，到服务器 ，[下载地址](http://cdn-blog.jetbrains.org.cn/idea.zip)
 
 2. 上传相应的服务到服务器上
 
