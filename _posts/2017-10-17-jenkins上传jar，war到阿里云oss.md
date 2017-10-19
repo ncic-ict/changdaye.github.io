@@ -27,6 +27,8 @@ FTP服务器：很多用户仍然在用这种方式存储Artifact
 
 Jenkins是当前最常用的CI服务器，FIT2CLOUD Aliyun-OSS-Plugin for Jenkins的功能是：将构建后的artifact上传到OSS的指定位置上去。
 
+**像我这种需求就是：nexus保存一份，阿里云oss在保存一份**
+
 
 ## 安装说明
 
