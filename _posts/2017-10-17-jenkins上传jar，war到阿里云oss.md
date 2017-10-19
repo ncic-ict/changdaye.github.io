@@ -37,7 +37,7 @@ Jenkins是当前最常用的CI服务器，FIT2CLOUD Aliyun-OSS-Plugin for Jenkin
 
 ## 配置说明
 
-在使用插件之前，必须先在[Manage Jenkins | Configure System | 阿里云OSS账户设置]中配置阿里云帐号的Access Key、Secret Key和阿里云EndPoint后缀.
+在使用插件之前，必须先在Manage Jenkins | Configure System | 阿里云OSS账户设置]中配置阿里云帐号的Access Key、Secret Key和阿里云EndPoint后缀.
 ![](http://cdn-blog.jetbrains.org.cn/17-10-19/1133242.jpg)
 阿里云后缀：内网填"-internal.aliyuncs.com",外网填".aliyuncs.com",默认外网。如果您的Jenkins也部署在阿里云上面，那么可以使用内网，上传速度更快。
 
