@@ -79,4 +79,8 @@ jenkins 的log 查看
 
 
 
+![](http://cdn-blog.jetbrains.org.cn/17-10-19/86943307.jpg)
+
+
+
 

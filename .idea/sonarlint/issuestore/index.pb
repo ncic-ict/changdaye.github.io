@@ -147,3 +147,5 @@ m
 =_posts/2017-10-16-jenkins 管道 工作流 自动化部署.md,a/d/ad7438017ec79bf590ba2293e20b44bd838ec81b
 `
 0_posts/2017-10-17-docker私服搭建与使用.md,1/8/18c87ad35acab951ee0c36110945f7791d15a988
+j
+:_posts/2017-10-17-jenkins上传jar，war到阿里云oss.md,5/c/5ccd695981c72b9049dca3959a40f38d38ab6cb1
