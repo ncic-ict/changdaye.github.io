@@ -45,6 +45,8 @@ tags:
 
 # 说明
 
+项目地址： https://github.com/changdaye/spring-initializr ，可直接去release中下载jar包使用
+
 搭建完感觉直接找台可以访问start.spring.io的主机，做转发应该也可以，还能简单点。
 
 不过也无所谓，有跟我情况差不多的小伙伴的话，可以使用这个地址： **http://start.jetbrains.org.cn/** 网页能打开基本就可以使用，不能用的话可以给我发邮件之类的。谢谢。
