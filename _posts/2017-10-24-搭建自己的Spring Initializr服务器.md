@@ -4,7 +4,7 @@ title:     	搭建自己的Spring Initializr服务器
 subtitle:    "\"搭建自己的Spring Initializr服务器\""
 date:       2017-10-24
 author:     Mr Chang
-header-img: img/post-bg-mma-1.jpg
+header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
     - Spring Initializr
