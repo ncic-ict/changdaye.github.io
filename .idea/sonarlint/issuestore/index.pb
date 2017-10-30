@@ -153,3 +153,7 @@ Y
 )_posts/2017-10-24-rancher 快速入门.md,a/9/a94d2cf897d58b5d7f6c6e1606fb074df82f48be
 n
 >_posts/2017-10-24-搭建自己的Spring Initializr服务器.md,5/c/5c0b9ea4bda75607334c4e28540764c738802b3e
+t
+D_posts/2017-10-29-ArchiSteamFarmV3.0使用服务器steam云挂卡.md,1/e/1e57167c281e84cc31e899bdf145511a14efa89d
+<
+js/jquery.js,6/f/6fbee01bde5b78b36abfc2740ccf973a3ec56c18
