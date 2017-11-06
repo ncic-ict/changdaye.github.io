@@ -142,5 +142,9 @@ pom文件中需要引入相应的插件。docker-maven-plugin有三款：spotify
 
 **http://blueskykong.com/2017/11/02/dockermaven/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io**
 
+**https://github.com/spotify/docker-maven-plugin**
+
+**https://github.com/changdaye/maven-docker-image**
+
 
 
