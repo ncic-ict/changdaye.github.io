@@ -138,8 +138,9 @@ pom文件中需要引入相应的插件。docker-maven-plugin有三款：spotify
 ![](http://cdn-blog.jetbrains.org.cn/17-11-6/14752412.jpg)
 
 
+# 鸣谢
 
-
+**http://blueskykong.com/2017/11/02/dockermaven/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io**
 
 
 
