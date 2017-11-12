@@ -170,3 +170,5 @@ A_posts/2017-11-03-mac 外接显示器 字体发虚解决方案.md,e/b/ebfbda36
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 b
 2_posts/2017-11-06-Maven插件构建Docker镜像.md,3/f/3fc12881b6a1b3c06abe04aacb6000fc240f5565
+r
+B_posts/2017-11-08-logstash采集日志中文字符变成unicode.md,1/5/154996329bbb8a7565a8562b83753f701a07b81a
