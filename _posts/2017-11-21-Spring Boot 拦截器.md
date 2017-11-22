@@ -32,7 +32,7 @@ UserRoleAuthorizationInterceptor |
 
 其中 LocaleChangeInterceptor 和 ThemeChangeInterceptor 比较常用。
 
-配置拦截器也很简单，Spring 为什么提供了基础类WebMvcConfigurerAdapter ，我们只需要重写 addInterceptors 方法添加注册拦截器。
+配置拦截器也很简单，Spring 为什么提供了基础类WebMvcConfigurerAdapter1 ，我们只需要重写 addInterceptors 方法添加注册拦截器。
 
 
 # 实现
