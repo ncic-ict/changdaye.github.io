@@ -54,6 +54,7 @@ tags:
 	![](http://cdn-blog.jetbrains.org.cn/17-9-21/39675683.jpg)
 
 ## 项目中使用
+### 使用方式1 
 1. maven setting.xml 设置
 		![](http://cdn-blog.jetbrains.org.cn/17-9-21/60017734.jpg)
 		
@@ -68,7 +69,28 @@ tags:
 	
 3. 使用。执行 mvn sonar:sonar 即可
 
-4. 观察
+### 使用方式2 
+1. pom添加插件
+   		
+   		<plugin>
+                   <groupId>org.sonarsource.scanner.maven</groupId>
+                   <artifactId>sonar-maven-plugin</artifactId>
+                   <version>3.3.0.603</version>
+         </plugin>
+2. 使用默认的帐号登录之后,可以:
+    * 生成一个代替帐号的`token`
+    * 修改一个`admin`的密码
+    * 可以在`Administration`=>`System`=>`Update Center`,安装中文插件和其它要分析的语言的插件
+    
+3. 执行
+
+        mvn clean package sonar:sonar \
+          -Dsonar.host.url=http://localhost:9000 \  //此处是sonar控制台访问地址
+          -Dsonar.login=token
+ 
+
+
+## 观察
 	
 	![](http://cdn-blog.jetbrains.org.cn/17-9-21/98104526.jpg)
 	
