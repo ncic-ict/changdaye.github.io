@@ -86,7 +86,7 @@ tags:
 
         mvn clean package sonar:sonar \
           -Dsonar.host.url=http://localhost:9000 \  //此处是sonar控制台访问地址
-          -Dsonar.login=token
+          -Dsonar.login=token  //token 是登陆到sonar后自己设置的token 
  
 
 
