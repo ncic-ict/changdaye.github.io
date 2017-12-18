@@ -4,7 +4,7 @@ title:     	logstash采集日志中文字符变成unicode
 subtitle:    "\"logstash采集日志中文字符变成unicode\""
 date:       2017-11-08
 author:     Mr Chang
-header-img: img/post-bg-mma-5.jpg
+header-img: img/post-bg-mma-1.jpg
 catalog: true
 tags:
     - logstash

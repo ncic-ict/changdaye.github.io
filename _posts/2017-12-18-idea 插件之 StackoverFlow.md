@@ -4,7 +4,7 @@ title:     	idea 插件之 StackoverFlow
 subtitle:    "\"idea 插件之 StackoverFlow\""
 date:       2017-12-18
 author:     Mr Chang
-header-img: img/post-bg-mma-5.jpg
+header-img: img/post-sample-image.jpg
 catalog: true
 tags:
     - idea

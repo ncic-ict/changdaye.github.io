@@ -4,7 +4,7 @@ title:     	springboot 使用随机数
 subtitle:    "\"springboot 使用随机数\""
 date:       2017-12-04
 author:     Mr Chang
-header-img: img/post-bg-mma-5.jpg
+header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - springboot

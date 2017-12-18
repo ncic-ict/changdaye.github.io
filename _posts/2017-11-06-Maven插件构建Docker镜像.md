@@ -4,7 +4,7 @@ title:     	Maven插件构建Docker镜像
 subtitle:    "\"Maven插件构建Docker镜像\""
 date:       2017-11-06
 author:     Mr Chang
-header-img: img/post-bg-mma-5.jpg
+header-img: img/post-bg-mma-0.jpg
 catalog: true
 tags:
     - Maven插件

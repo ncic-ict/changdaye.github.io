@@ -4,7 +4,7 @@ title:     	Docker Compose 配置文件详解
 subtitle:    "\"Docker Compose 配置文件详解\""
 date:       2017-12-17
 author:     Mr Chang
-header-img: img/post-bg-mma-5.jpg
+header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
     - mac
