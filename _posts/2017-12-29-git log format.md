@@ -42,11 +42,11 @@ git log命令可一接受一个--pretty选项，来确定输出的格式.
 
 '%an': author name
 
-'%aN': author name (respecting .mailmap, see git-shortlog[1] or git-blame[1])
+'%aN': author name (respecting .mailmap, see git-shortlog or git-blame)
 
 '%ae': author email
 
-'%aE': author email (respecting .mailmap, see git-shortlog[1] or git-blame[1])
+'%aE': author email (respecting .mailmap, see git-shortlog or git-blame)
 
 '%ad': author date (format respects --date= option)
 
@@ -62,11 +62,11 @@ git log命令可一接受一个--pretty选项，来确定输出的格式.
 
 '%cn': committer name
 
-'%cN': committer name (respecting .mailmap, see git-shortlog[1] or git-blame[1])
+'%cN': committer name (respecting .mailmap, see git-shortlog or git-blame)
 
 '%ce': committer email
 
-'%cE': committer email (respecting .mailmap, see git-shortlog[1] or git-blame[1])
+'%cE': committer email (respecting .mailmap, see git-shortlog or git-blame)
 
 '%cd': committer date (format respects --date= option)
 
@@ -80,7 +80,7 @@ git log命令可一接受一个--pretty选项，来确定输出的格式.
 
 '%cI': committer date, strict ISO 8601 format
 
-'%d': ref names, like the --decorate option of git-log[1]
+'%d': ref names, like the --decorate option of git-log
 
 '%D': ref names without the " (", ")" wrapping.
 
