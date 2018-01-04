@@ -96,6 +96,6 @@ git log命令可一接受一个--pretty选项，来确定输出的格式.
 
 '%N': commit notes
 
-'%GG': raw verification message from GPG for a signed commit
+'%GG': raw verification message1 from GPG for a signed commit
 
 **出自 ： https://git-scm.com/docs/pretty-formats**
