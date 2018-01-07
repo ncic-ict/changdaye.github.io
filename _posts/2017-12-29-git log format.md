@@ -80,7 +80,7 @@ git log命令可一接受一个--pretty选项，来确定输出的格式.
 
 '%cI': committer date, strict ISO 8601 format
 
-'%d': ref names, like the --decorate option of git-log
+'%d': ref names, like the --d1ecorate option of git-log
 
 '%D': ref names without the " (", ")" wrapping.
 
