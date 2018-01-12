@@ -45,6 +45,19 @@ tags:
 
 	netstat -anp | grep 5005
 	
+
+# docker
+
+如果应用是跑在容器中的，只需要修改Dockerfile即可。例子如下
+
+	FROM java:8
+	
+	COPY target/agents.jar /app.jar
+	EXPOSE 8080
+	EXPOSE 5005
+	ENTRYPOINT ["java","-jar" ,"-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005","-Dspring.profiles.active=sit","/app.jar"]
+
+	
 通过以上步骤已经完成了服务器端参数的添加。下面启动刚才配置的Remote服务。在启动时候我们会发现此项启动程序只有debug启动模式。
 
 启动完成，对需要debug的代码打上断点，剩下的操作步骤就是访问远程服务器对应的业务请求，本地就会同步debug。其余的操作与本地debug相同，此处就不再赘述了。
