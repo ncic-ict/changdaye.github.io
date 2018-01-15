@@ -31,7 +31,7 @@ tags:
 	
 ![](http://cdn-blog.jetbrains.org.cn/18-1-11/44257397.jpg)
 
-经过以上步骤，已经获得了启动远程服务器的参数。在启动springboot时默认使用java命令来启动。 
+经过以上步骤，已经获得了启动远程服务器的参数。在启动springboot时默认使用java命令来启动.
 比如，示例项目启动命令为：
 	
 	$ java -jar remotedebug-0.0.1-SNAPSHOT.jar
