@@ -13,8 +13,13 @@ tags:
 ---
 
 	
-	Caused by: java.lang.IllegalStateException: Cannot enable lazy loading because CGLIB is not available. Add CGLIB to your classpath.
+	Caused by: java.lang.IllegalStateException:
+	 Cannot enable lazy loading because CGLIB is not available. 
+	 Add CGLIB to your classpath.
 	
+CGLIB依赖很明显是加了的，所以考虑到是不是版本不兼容问题。
+
+
 解决：
 
 升级CGLIB包版本，我用的2.2就报错，升级到3.1就好了。
