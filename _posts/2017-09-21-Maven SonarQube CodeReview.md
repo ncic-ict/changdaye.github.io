@@ -87,6 +87,13 @@ tags:
         mvn clean package sonar:sonar \
           -Dsonar.host.url=http://localhost:9000 \  //此处是sonar控制台访问地址
           -Dsonar.login=token  //token 是登陆到sonar后自己设置的token 
+          
+        或者
+        
+        mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent package \ 
+        -Dmaven.test.failure.ignore=true \
+         deploy \ 
+         sonar:sonar -Dsonar.host.url=http://192.168.199.131:9000 -Dsonar.login=2feb1b65a2224c9cb6744f35a7e45988e3443af6
  
 
 
