@@ -64,3 +64,6 @@ Spring Boot Admin 是一个管理和监控你的 Spring Boot 应用程序的应�
 
 	![](http://cdn-blog.jetbrains.org.cn/18-1-22/92688632.jpg)
 
+# 总结
+
+  最后一项可以直接导出文件，并深入分析。
