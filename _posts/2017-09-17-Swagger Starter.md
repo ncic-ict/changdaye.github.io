@@ -1,3 +1,4 @@
+
 ---
 layout:     post
 title:      Swagger 使用
@@ -141,6 +142,10 @@ tags:
 	* required
 		是否为必须值
 	
+## 总结
+
+   `@ApiImplicitParams`与`@ApiModelProperty`搭配使用更灵活
+   
 ## 关于Token问题
 
 考虑到安全的问题，每次请求API需要对用户进行验证与授权。目前主流的验证方式采用请求头部（request header）传递token，即用户登录之后获取一个token，然后每次都使用这个token去请求API。如果想利用swagger-UI进行API测试，必须显式为每个需要验证的API指定token参数。这时可以为每个操作添加一个注解@ApiImplicitParams，具体代码如下：
