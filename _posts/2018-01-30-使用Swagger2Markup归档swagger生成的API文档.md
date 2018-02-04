@@ -198,7 +198,7 @@ Swagger2Markup是Github上的一个开源项目。该项目主要用来将Swagge
 
 ### 实际项目应用后效果
 
-* http://cdn-blog.jetbrains.org.cn/doc/all.html
+* [实际项目应用后效果](http://cdn-blog.jetbrains.org.cn/doc/all.html）
 
 
 # 代码
