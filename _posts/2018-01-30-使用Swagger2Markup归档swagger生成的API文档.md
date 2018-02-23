@@ -205,7 +205,9 @@ Swagger2Markup是Github上的一个开源项目。该项目主要用来将Swagge
 
     https://github.com/changdaye/swagger-demo
 
+# 鸣谢
 
+   文章出处 ： http://blog.didispace.com/swagger2markup-asciidoc/
 
 
 
