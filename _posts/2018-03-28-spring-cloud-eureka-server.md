@@ -112,8 +112,8 @@ Spring Cloud专注于提供良好的开箱即用经验的典型用例和可扩�
 
 为了大家更好的学习spring-cloud 我用良心云做了台公共的eureka-server
 
-* http://eureka-server.jetbrains.org.cn
-* 在Spring Cloud应用的配置文件中，设置eureka的地址为： eureka.client.serviceUrl.defaultZone=http://eureka-server.jetbrains.org.cn/eureka/
+* `http://eureka-server.jetbrains.org.cn`
+* 在Spring Cloud应用的配置文件中，设置eureka的地址为： `eureka.client.serviceUrl.defaultZone=http://eureka-server.jetbrains.org.cn/eureka/`
 
 * 注意：`因为服务器性能较差，1c2g1m的良心云，请不要压测，且已加监控。`
 
