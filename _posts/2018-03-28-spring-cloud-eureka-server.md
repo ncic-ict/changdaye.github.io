@@ -117,3 +117,9 @@ Spring Cloud专注于提供良好的开箱即用经验的典型用例和可扩�
 
 * 注意：`因为服务器性能较差，1c2g1m的良心云，请不要压测，且已加监控。`
 
+# 参考资料
+   1. https://github.com/changdaye/spring-cloud-study/tree/master/spring-cloud-eureka-server
+    
+   2. https://www.jianshu.com/p/599c74a9035e
+    
+   3. https://springcloud.cc/spring-cloud-dalston.html#spring-cloud-eureka-server
