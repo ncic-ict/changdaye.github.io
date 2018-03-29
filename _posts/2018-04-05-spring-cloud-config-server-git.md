@@ -35,7 +35,7 @@ HTTP服务具有以下格式的资源：
 
 Spring Cloud Config服务器从git存储库（必须提供）为远程客户端提供配置：
 
-		spring.cloud.config.server.git.uri=https://github.com/changdaye/spring-cloud-config-repo-demo/
+	spring.cloud.config.server.git.uri=https://github.com/changdaye/spring-cloud-config-repo-demo/
 
 
 # Spring Cloud Config服务器
