@@ -1,15 +1,41 @@
 ---
 layout:     post
 title:     	spring-cloud-config-server-git
-subtitle:    "\"服务器为外部配置（名称值对或等效的YAML内容）提供了基于资源的HTTP。服务器可以使用@EnableConfigServer注释轻松嵌入到Spring Boot应用程序中。所以这个应用程序是一个配置服务器\""
+subtitle:    "\"Spring Cloud Config为分布式系统中的外部配置提供服务器和客户端支持\""
 date:       2018-04-05
 author:     Mr Chang
 header-img: img/post-bg-e2e-ux.jpg
 catalog: true
 tags:
     - spring cloud
-    - spring-cloud-turbine
+    - spring-cloud-config-server-git
 ---
+
+# Spring Cloud Config
+
+Spring Cloud Config为分布式系统中的外部配置提供服务器和客户端支持。
+使用Config Server，您可以在所有环境中管理应用程序的外部属性。
+客户端和服务器上的概念映射与Spring Environment和PropertySource抽象相同，因此它们与Spring应用程序非常契合，但可以与任何以任何语言运行的应用程序一起使用。
+随着应用程序通过从开发人员到测试和生产的部署流程，您可以管理这些环境之间的配置，并确定应用程序具有迁移时需要运行的一切。
+服务器存储后端的默认实现使用git，因此它轻松支持标签版本的配置环境，以及可以访问用于管理内容的各种工具。很容易添加替代实现，并使用Spring配置将其插入。
+
+定位资源的默认策略是克隆一个git仓库（在spring.cloud.config.server.git.uri），并使用它来初始化一个迷你SpringApplication。
+小应用程序的Environment用于枚举属性源并通过JSON端点发布。
+
+HTTP服务具有以下格式的资源：
+
+    /{application}/{profile}[/{label}]
+    /{application}-{profile}.yml
+    /{label}/{application}-{profile}.yml
+    /{application}-{profile}.properties
+    /{label}/{application}-{profile}.properties
+    
+    
+其中“应用程序”作为SpringApplication中的spring.config.name注入（即常规的Spring Boot应用程序中通常是“应用程序”），“配置文件”是活动配置文件（或逗号分隔列表的属性），“label”是可选的git标签（默认为“master”）。
+
+Spring Cloud Config服务器从git存储库（必须提供）为远程客户端提供配置：
+
+		spring.cloud.config.server.git.uri=https://github.com/changdaye/spring-cloud-config-repo-demo/
 
 
 # Spring Cloud Config服务器
