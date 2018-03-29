@@ -1,7 +1,10 @@
 # BY Blog
 
 > 下面是博客的搭建教程，这个教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 。
+# 备注
 
+   此readme为原作者书写，个人觉得没什么问题，就不保留了。
+   
 ### [我的博客在这里 &rarr;](http://blog.jetbrains.org.cn/)
 
 
