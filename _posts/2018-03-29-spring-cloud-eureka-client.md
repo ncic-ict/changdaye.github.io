@@ -2,7 +2,7 @@
 layout:     post
 title:     	spring-cloud-eureka-client
 subtitle:    "\"服务注册与发现-客户端\""
-date:       2018-03-28
+date:       2018-03-29
 author:     Mr Chang
 header-img: img/post-bg-e2e-ux.jpg
 catalog: true
