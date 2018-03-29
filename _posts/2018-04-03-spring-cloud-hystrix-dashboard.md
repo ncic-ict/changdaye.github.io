@@ -95,8 +95,7 @@ Hystrix的主要优点之一是它收集关于每个HystrixCommand的一套指�
 
 # 思考
 
-如果我想要观察接口失败情况，如何解决？引入下期的Dashboard
-
+hystrix-dashboard 监控项目是一个一个配置url的，相对比较麻烦，那么有没有更好的组件呢，下期我们介绍spring-cloud-turbine
 
 # 参考资料
    1. https://github.com/changdaye/spring-cloud-study/tree/master/spring-cloud-hystrix-dashboard
