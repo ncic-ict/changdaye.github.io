@@ -89,7 +89,7 @@ tags:
 # 测试
 
 1. 修改 https://github.com/changdaye/spring-cloud-config-repo-demo 中 config-client-refresh-bus-rabbitmq-dev.yml配置文件，然后提交到master
-2. 调用刷新配置
+2. 调用刷新配置 ** 为端口号,这里其实个人觉得应该还要加上主机名的。
 	`POST https://config-server-git.jetbrains.org.cn/bus/refresh?destination=config-client-refresh-bus-rabbitmq:**`
 	即可
 
