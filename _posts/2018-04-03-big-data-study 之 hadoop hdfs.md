@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:     	big-data-study 之 hadoop hdfs
+title:     	 hadoop hdfs
 subtitle:    "\"分布式文件系统，可以存储海量文件\""
 date:       2018-04-03
 author:     Mr Chang
@@ -9,6 +9,7 @@ catalog: true
 tags:
     - hadoop
     - hdfs
+    - big-data-study
     
 ---
 
