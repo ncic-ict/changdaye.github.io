@@ -102,6 +102,9 @@ HDFS中有两种重要的服务器软件角色：
 	内网IP地址  你的hostname
 	公网IP地址  别的hostname
 	
+ * 我只有一台master节点，so。。。
+ ![](http://cdn-blog.jetbrains.org.cn/18-4-3/36601488.jpg)
+	
 # 效果
 
  ![](http://cdn-blog.jetbrains.org.cn/18-4-3/58061162.jpg)
