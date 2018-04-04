@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:     	Hive
+title:     	hadoop Hive
 subtitle:    "\"就是一个利用HDFS存储数据，利用mapreduce运算数据的数据仓库工具\""
 date:       2018-04-04
 author:     Mr Chang
