@@ -136,6 +136,14 @@ Spring Cloud Config服务器从git存储库（必须提供）为远程客户端�
 * 远程配置中心位置：https://github.com/changdaye/spring-cloud-config-repo-demo，添加自己的配置只需要提交request合并即可。
 
 
+# 备注
+Spring Cloud Bus的更新只对三种情况有效
+
+1. @ConfigurationProperties
+2. @RefreshScope
+3. 日志级别
+
+
 # 参考资料
 
 1. https://springcloud.cc/spring-cloud-dalston.html#_spring_cloud_config_server

@@ -93,6 +93,14 @@ tags:
 	`POST https://config-server-git.jetbrains.org.cn/bus/refresh?destination=config-client-refresh-bus-rabbitmq:**`
 	即可
 
+# 备注
+
+Spring Cloud Bus的更新只对三种情况有效
+
+1. @ConfigurationProperties
+2. @RefreshScope
+3. 日志级别
+
 # 参考资料
 
 1. https://springcloud.cc/spring-cloud-dalston.html#_spring_cloud_config
