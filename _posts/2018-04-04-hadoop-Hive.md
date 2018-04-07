@@ -117,6 +117,6 @@ hive>load data inpath '/access.log.2017-08-06.log' into table t_access partition
 
 # 其他
 
-hive 的其他sql 语法 与 常用关系型数据库，如mysql，oracle等语法类似，这里不做细致说明。
+hive 的其他sql 语法 与 常用关系型数据库，如mysql，oracle等语法类似，这里不做细致说明。。
 
 
