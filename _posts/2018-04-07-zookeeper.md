@@ -2,7 +2,7 @@
 layout:     post
 title:     	zookeeper
 subtitle:    "\"分布式应用程序协调服务\""
-date:       2018-04-08
+date:       2018-04-07
 author:     Mr Chang
 header-img: img/post-bg-e2e-ux.jpg
 catalog: true
