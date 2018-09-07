@@ -21,7 +21,7 @@ confluence是一个专业的企业知识管理与协同软件，可以用于构�
 # 安装Confluence
 
 
-`docker run -d --name confluence -p 8090:8090 cptactionhank/atlassian-confluence:latest`
+`docker run -d --name confluence -p 8090:8090  --user root:root  cptactionhank/atlassian-confluence:latest`
 
 1. 访问http://ip:8090/ 就可以看到Confluence的初始化和配置页面。
 
@@ -80,6 +80,10 @@ atlassian-extras-decoder-v2-3.2.jar
  5. 如图
 
   ![](http://cdn-blog.jetbrains.org.cn/18-9-3/65303965.jpg)
+  
+ 6. 设置mysql隔离级别  
+  `SET GLOBAL tx_isolation='READ-COMMITTED';`
+
   
  # 总结
  
