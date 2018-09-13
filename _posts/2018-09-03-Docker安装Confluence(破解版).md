@@ -42,16 +42,16 @@ confluence是一个专业的企业知识管理与协同软件，可以用于构�
 # 破解confluence
 
 
-下载破解confluence文件：
-
-atlassian-universal-plugin-manager-plugin-2.22.jar
-
-atlassian-extras-decoder-v2-3.2.jar
-
-
-`http://cdn-blog.oss-cn-beijing.aliyuncs.com/k2p-frp/atlassian-extras-decoder-v2-3.2.jar`
-
-`http://cdn-blog.oss-cn-beijing.aliyuncs.com/k2p-frp/atlassian-universal-plugin-manager-plugin-2.22.jar`
+    下载破解confluence文件：
+    
+    atlassian-universal-plugin-manager-plugin-2.22.jar
+    
+    atlassian-extras-decoder-v2-3.2.jar
+    
+    
+    `http://cdn-blog.oss-cn-beijing.aliyuncs.com/k2p-frp/atlassian-extras-decoder-v2-3.2.jar`
+    
+    `http://cdn-blog.oss-cn-beijing.aliyuncs.com/k2p-frp/atlassian-universal-plugin-manager-plugin-2.22.jar`
 
 
 1. 进入confluence容器命令：
@@ -62,12 +62,14 @@ atlassian-extras-decoder-v2-3.2.jar
 
 	* 备份要替换的文件
 		`mv /opt/atlassian/confluence/confluence/WEB-INF/lib/atlassian-extras-decoder-v2-3.3.0.jar   /mnt/`
+		
 		`mv /opt/atlassian/confluence/confluence/WEB-INF/atlassian-bundled-plugins/atlassian-universal-plugin-manager-plugin-2.22.5.jar /mnt`
 		
 3. 备份好文件后，退出confluence容器。拷贝下载的文件到confluence容器中。
 
- * 将下载的破解文件替换对应的jar
-		`docker cp atlassian-extras-decoder-v2-3.2.jar confluence:/opt/atlassian/confluence/confluence/WEB-INF/lib/`
+    * 将下载的破解文件替换对应的jar
+   		`docker cp atlassian-extras-decoder-v2-3.2.jar confluence:/opt/atlassian/confluence/confluence/WEB-INF/lib/`
+   		
 		`docker cp atlassian-universal-plugin-manager-plugin-2.22.jar  confluence:/opt/atlassian/confluence/confluence/WEB-INF/atlassian-bundled-plugins/`
 		
 4. 重新启动confluence容器。
