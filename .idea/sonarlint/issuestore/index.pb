@@ -172,3 +172,7 @@ b
 2_posts/2017-11-06-Maven插件构建Docker镜像.md,3/f/3fc12881b6a1b3c06abe04aacb6000fc240f5565
 r
 B_posts/2017-11-08-logstash采集日志中文字符变成unicode.md,1/5/154996329bbb8a7565a8562b83753f701a07b81a
+f
+6_posts/2018-09-03-Docker安装Confluence(破解版).md,6/a/6a2843d6e7ad1a22099e0b86a9aa1c53e7ec8a54
+V
+&_posts/2018-09-13-Kubernetes 入门.md,e/b/eb1c5a4de398062544ebcca8ce593d6c9c3b4fd3
